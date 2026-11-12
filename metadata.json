@@ -1,0 +1,7 @@
+{
+  "uuid": "middle-click-close@local",
+  "name": "Middle Click Close",
+  "description": "在概览里中键点击窗口缩略图即可关闭该窗口。",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "version": 1
+}
